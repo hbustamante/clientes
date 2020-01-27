@@ -15,6 +15,8 @@ namespace Intercorp.Clientes.Application.ApplicationServices.ClientServices
 
         Task<ClientStandardDeviationDto> GetStandardDeviation();
 
+        Task<ClientKpiDto> GetKpi();
+
         Task<List<ClientDeadDto>> GetClients();
     }
 }

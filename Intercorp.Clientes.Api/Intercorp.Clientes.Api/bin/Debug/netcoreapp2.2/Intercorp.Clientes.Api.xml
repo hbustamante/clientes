@@ -26,6 +26,16 @@
             <response code="200">OK. Obtención de listado correcto.</response>
             <response code="500">InternalServerError. Ha sucedido un error interno.</response>
         </member>
+        <member name="M:Intercorp.Clientes.Api.Controllers.ClientesController.GetKpi">
+            <summary>
+            Obtener kpi de clientes.
+            </summary>
+            <remarks>
+            Intercorp - Endpoint GET KPI.
+            </remarks>
+            <response code="200">OK. Obtención de listado correcto.</response>
+            <response code="500">InternalServerError. Ha sucedido un error interno.</response>
+        </member>
         <member name="M:Intercorp.Clientes.Api.Controllers.ClientesController.GetAverage">
             <summary>
             Obtener promedio de edad de clientes.

@@ -37,6 +37,7 @@ namespace Intercorp.Clientes.Api.Controllers
         /// <response code="400">BadRequest. No se ha creado el objeto en la BD. Formato del objeto incorrecto.</response>
         /// <response code="500">InternalServerError. Ha sucedido un error interno.</response>
         [HttpPost]
+        [Route("creacliente")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -66,6 +67,7 @@ namespace Intercorp.Clientes.Api.Controllers
         /// <response code="200">OK. Obtención de listado correcto.</response>
         /// <response code="500">InternalServerError. Ha sucedido un error interno.</response>
         [HttpGet]
+        [Route("listclientes")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Get()
@@ -73,6 +75,31 @@ namespace Intercorp.Clientes.Api.Controllers
             try
             {
                 var result = await _createClientService.GetClients();
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new { message = ex.Message });
+            }
+        }
+
+        /// <summary>
+        /// Obtener kpi de clientes.
+        /// </summary>
+        /// <remarks>
+        /// Intercorp - Endpoint GET KPI.
+        /// </remarks>
+        /// <response code="200">OK. Obtención de listado correcto.</response>
+        /// <response code="500">InternalServerError. Ha sucedido un error interno.</response>
+        [HttpGet]
+        [Route("kpideclientes")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<IActionResult> GetKpi()
+        {
+            try
+            {
+                var result = await _createClientService.GetKpi();
                 return Ok(result);
             }
             catch (Exception ex)

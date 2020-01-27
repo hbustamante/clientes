@@ -43,6 +43,11 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
         public async Task<ClientAverageDto> GetAverage()
         {
             List<Client> clientes = await _clientRepository.GetClients();
+            return CalcularPromedio(clientes);
+        }
+
+        private ClientAverageDto CalcularPromedio(List<Client> clientes)
+        {
             List<int> edades = clientes.Select(c => CalcularEdad(c.FechaDeNacimiento)).ToList();
             double promedioEdad = edades.Average();
 
@@ -71,6 +76,11 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
         public async Task<ClientStandardDeviationDto> GetStandardDeviation()
         {
             List<Client> clientes = await _clientRepository.GetClients();
+            return CalcularDesviacion(clientes);
+        }
+
+        private ClientStandardDeviationDto CalcularDesviacion(List<Client> clientes)
+        {
             List<int> edades = clientes.Select(c => CalcularEdad(c.FechaDeNacimiento)).ToList();
             double desviacionStandard = StandardDeviation(edades);
 
@@ -82,7 +92,6 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
 
             return clientSDDto;
         }
-
 
         public double StandardDeviation(List<int> valueList)
         {
@@ -126,6 +135,20 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
             return fechaProbableMuerte;
         }
 
+
         #endregion
+
+        public async Task<ClientKpiDto> GetKpi()
+        {
+            List<Client> clientes = await _clientRepository.GetClients();
+            var clientKpi = new ClientKpiDto
+            {
+                clientAverageDto = CalcularPromedio(clientes),
+                clientStandardDeviationDto = CalcularDesviacion(clientes)
+            };
+
+            return clientKpi;
+        }
+
     }
 }
