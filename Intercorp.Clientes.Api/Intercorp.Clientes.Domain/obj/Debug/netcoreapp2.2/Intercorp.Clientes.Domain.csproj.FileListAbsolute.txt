@@ -1,0 +1,8 @@
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.deps.json
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.dll
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.pdb
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.AssemblyInfoInputs.cache
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.AssemblyInfo.cs
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.dll
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Domain\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Application.deps.json
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Application.dll
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Application.pdb
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.dll
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.pdb
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.csprojAssemblyReference.cache
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.AssemblyInfoInputs.cache
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.AssemblyInfo.cs
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.csproj.CopyComplete
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.dll
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Application.pdb
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Repository.dll
+C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Application\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Repository.pdb
