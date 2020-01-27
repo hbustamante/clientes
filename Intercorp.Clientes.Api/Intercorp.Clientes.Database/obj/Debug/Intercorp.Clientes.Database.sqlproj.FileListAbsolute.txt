@@ -7,3 +7,12 @@ C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.D
 C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\predeploy.sql
 C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Intercorp.Clientes.Database.dll
 C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Intercorp.Clientes.Database.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\bin\Debug\Intercorp.Clientes.Database.dacpac
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\bin\Debug\Intercorp.Clientes.Database.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\bin\Debug\Intercorp.Clientes.Database.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Model.xml
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\refactor.xml
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\postdeploy.sql
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\predeploy.sql
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Intercorp.Clientes.Database.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Intercorp.Clientes.Database.pdb

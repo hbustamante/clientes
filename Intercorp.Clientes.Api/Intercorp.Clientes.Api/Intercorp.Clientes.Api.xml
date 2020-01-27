@@ -4,6 +4,11 @@
         <name>Intercorp.Clientes.Api</name>
     </assembly>
     <members>
+        <member name="T:Intercorp.Clientes.Api.Controllers.ClientesController">
+            <summary>
+            Controlador de Clientes
+            </summary>
+        </member>
         <member name="M:Intercorp.Clientes.Api.Controllers.ClientesController.Post(Intercorp.Clientes.Application.Dto.ClientDto)">
             <summary>
             Agrega un nuevo cliente a la base de datos.

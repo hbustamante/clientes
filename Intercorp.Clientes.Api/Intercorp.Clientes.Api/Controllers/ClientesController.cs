@@ -11,6 +11,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Intercorp.Clientes.Api.Controllers
 {
+    /// <summary>
+    /// Controlador de Clientes
+    /// </summary>
     [Route("api/v1/[controller]")]
     [ApiController]
     public class ClientesController : ControllerBase

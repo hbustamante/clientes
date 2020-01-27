@@ -21,6 +21,13 @@ namespace Intercorp.Clientes.Repository
             this._applicationDbContext = applicationDbContext;
         }
 
+        public async Task<Client> GetClient(Client client)
+        {
+            var clientFilter = _applicationDbContext.Clientes.Where(c => c.Nombre.ToUpper() == client.Nombre.ToUpper() 
+                                                                    && c.Apellido.ToUpper() == client.Apellido.ToUpper()).FirstOrDefault();
+            return clientFilter.Adapt<Client>();
+        }
+
         public async Task<List<Client>> GetClients()
         {
             var listClientAverage = _applicationDbContext.Clientes.Where(c => !c.IsDeleted).ToList();

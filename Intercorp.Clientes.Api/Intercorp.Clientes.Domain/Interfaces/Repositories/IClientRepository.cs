@@ -11,5 +11,7 @@ namespace Intercorp.Clientes.Domain.Interfaces.Repositories
         Task Save(Client client);
 
         Task<List<Client>> GetClients();
+
+        Task<Client> GetClient(Client client);
     }
 }

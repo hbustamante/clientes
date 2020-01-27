@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="Intercorp.Clientes.Database.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\HEBER\SOURCE\REPOS\CLIENTES\INTERCORP.CLIENTES.API\INTERCORP.CLIENTES.DATABASE\OBJ\DEBUG\INTERCORP.CLIENTES.DATABASE.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\HBUSTAMANTE\DOCUMENTS\HEBER BUSTAMANTE\NET\CLIENTES\INTERCORP.CLIENTES.API\INTERCORP.CLIENTES.DATABASE\OBJ\DEBUG\INTERCORP.CLIENTES.DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="Intercorp.Clientes.Database" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Intercorp.Clientes.Database.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Database\obj\Debug\Intercorp.Clientes.Database.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

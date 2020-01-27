@@ -35,3 +35,40 @@ C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.A
 C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.pdb
 C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Repository.pdb
 C:\Users\Heber\Source\Repos\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.xml
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.csprojAssemblyReference.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.csproj.CoreCompileInputs.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.RazorAssemblyInfo.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.RazorAssemblyInfo.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.AssemblyInfoInputs.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.AssemblyInfo.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.deps.json
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.runtimeconfig.json
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.runtimeconfig.dev.json
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.xml
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.Views.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Api.Views.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Application.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Repository.dll
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Application.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Domain.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\bin\Debug\netcoreapp2.2\Intercorp.Clientes.Repository.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.TagHelpers.input.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.TagHelpers.output.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.RazorCoreGenerate.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.RazorTargetAssemblyInfo.cache
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.RazorTargetAssemblyInfo.cs
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.Views.pdb
+C:\Users\hbustamante\Documents\Heber Bustamante\Net\clientes\Intercorp.Clientes.Api\Intercorp.Clientes.Api\obj\Debug\netcoreapp2.2\Intercorp.Clientes.Api.csproj.CopyComplete

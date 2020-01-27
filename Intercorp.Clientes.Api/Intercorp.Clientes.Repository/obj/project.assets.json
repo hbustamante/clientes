@@ -3592,23 +3592,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Heber\\.nuget\\packages\\": {},
+    "C:\\Users\\hbustamante\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Repository\\Intercorp.Clientes.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Repository\\Intercorp.Clientes.Repository.csproj",
       "projectName": "Intercorp.Clientes.Repository",
-      "projectPath": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Repository\\Intercorp.Clientes.Repository.csproj",
-      "packagesPath": "C:\\Users\\Heber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Repository\\obj\\",
+      "projectPath": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Repository\\Intercorp.Clientes.Repository.csproj",
+      "packagesPath": "C:\\Users\\hbustamante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hbustamante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3621,8 +3621,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj": {
-              "projectPath": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj"
+            "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj": {
+              "projectPath": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj"
             }
           }
         }

@@ -2966,23 +2966,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Heber\\.nuget\\packages\\": {},
+    "C:\\Users\\hbustamante\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj",
       "projectName": "Intercorp.Clientes.Domain",
-      "projectPath": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj",
-      "packagesPath": "C:\\Users\\Heber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Heber\\Source\\Repos\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\obj\\",
+      "projectPath": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\Intercorp.Clientes.Domain.csproj",
+      "packagesPath": "C:\\Users\\hbustamante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hbustamante\\Documents\\Heber Bustamante\\Net\\clientes\\Intercorp.Clientes.Api\\Intercorp.Clientes.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hbustamante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

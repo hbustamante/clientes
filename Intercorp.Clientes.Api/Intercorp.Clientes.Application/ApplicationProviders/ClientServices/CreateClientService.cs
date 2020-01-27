@@ -26,7 +26,12 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
 
         public async Task<Client> CreateClient(Client clientInfo)
         {
-            var client = new Client
+            var client = await _clientRepository.GetClient(clientInfo);
+            if (client != null) throw new ApplicationException("El cliente ya existe.");
+
+            if (ValidarEdadCorrecta(clientInfo)) throw new ApplicationException("La edad ingresada no concuerda con la fecha de nacimiento.");
+
+            var newclient = new Client
             {
                 Apellido = clientInfo.Apellido,
                 Nombre = clientInfo.Nombre,
@@ -35,8 +40,14 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
                 
             };
 
-            await _clientRepository.Save(client);
-            return client;
+            await _clientRepository.Save(newclient);
+            return newclient;
+        }
+
+        private bool ValidarEdadCorrecta(Client clientInfo)
+        {
+            var edadCalculada = CalcularEdad(clientInfo.FechaDeNacimiento);
+            return !(edadCalculada == clientInfo.Edad);
         }
 
         #region Average
@@ -129,7 +140,7 @@ namespace Intercorp.Clientes.Application.ApplicationProviders.ClientServices
             double esperanzaDeVida = 80.5;
             double añosEstimados = esperanzaDeVida - CalcularEdad(client.FechaDeNacimiento);
             DateTime fechaProbableMuerte = client.FechaDeNacimiento.AddYears(Convert.ToInt32(añosEstimados));
-            fechaProbableMuerte = fechaProbableMuerte.AddMonths(gen.Next(1,12));
+            fechaProbableMuerte = fechaProbableMuerte.AddMonths(gen.Next(1,6));
             fechaProbableMuerte = fechaProbableMuerte.AddDays(gen.Next(1, 30));
             
             return fechaProbableMuerte;
